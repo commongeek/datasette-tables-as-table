@@ -1,0 +1,6 @@
+.db-table{display:table-row}
+.db-table>*{display:table-cell}
+.db-table h3{white-space:nowrap}
+.db-table h3 a{white-space:nowrap}
+.db-table p{padding-left:1rem}
+.db-table p:last-child{text-align:right;white-space:nowrap}
